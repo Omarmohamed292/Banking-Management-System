@@ -1,0 +1,6 @@
+2026-10-01 19:11:42 | Account: A0 | Operation: WITHDRAW | Amount: ٥٠٫٠٠
+2026-10-01 19:12:04 | Account: A0 | Operation: WITHDRAW | Amount: ١٥٣٫٠٠
+2026-10-01 19:12:16 | Account: A0 | Operation: WITHDRAW | Amount: ١١٫٢١
+2026-10-01 19:12:38 | Account: A0 | Operation: WITHDRAW | Amount: ٠٫٧٨
+2026-10-01 19:12:57 | Account: A0 | Operation: WITHDRAW | Amount: ٠٫٠٥
+2026-10-01 19:13:08 | Account: A0 | Operation: DEPOSIT | Amount: ١٠٠٫٠٠
